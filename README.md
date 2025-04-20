@@ -1,4 +1,4 @@
-![Capa do projeto](capa-projeto.png)
+![Capa do projeto](capa-projeto.png.png)
 # Análise de Vendas de E-commerce com Python
 
 Este projeto apresenta uma análise exploratória de um conjunto de dados reais de vendas online. O objetivo foi identificar padrões de comportamento dos clientes, desempenho dos produtos e sazonalidade nas vendas, utilizando ferramentas de ciência de dados.
